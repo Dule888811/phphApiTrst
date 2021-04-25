@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af36018-a973-43d8-9c68-00bdeb012356" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VanilaPhpApiTest" />
+  </component>
+  <component name="ProjectId" id="1rRuPBUpMs24pvSFhMb3Lc03DqZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\VanilaPhpApiTest" />
+      <recent name="C:\xampp\htdocs\VanilaPhpApiTest\classes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af36018-a973-43d8-9c68-00bdeb012356" name="Default Changelist" comment="" />
+      <created>1618951196645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618951196645</updated>
+      <workItem from="1618951198539" duration="3291000" />
+      <workItem from="1618956629260" duration="51000" />
+      <workItem from="1618957353695" duration="2607000" />
+      <workItem from="1618961880352" duration="1540000" />
+      <workItem from="1618988535652" duration="4359000" />
+      <workItem from="1618993955964" duration="7788000" />
+      <workItem from="1619068787626" duration="4000000" />
+      <workItem from="1619083069204" duration="6748000" />
+      <workItem from="1619105425446" duration="14112000" />
+      <workItem from="1619129004548" duration="1263000" />
+      <workItem from="1619159069894" duration="1383000" />
+      <workItem from="1619161090160" duration="4797000" />
+      <workItem from="1619174218764" duration="1353000" />
+      <workItem from="1619176467990" duration="4070000" />
+      <workItem from="1619188878693" duration="2176000" />
+      <workItem from="1619191865342" duration="10214000" />
+      <workItem from="1619262245413" duration="11387000" />
+      <workItem from="1619282646686" duration="1015000" />
+      <workItem from="1619285661066" duration="798000" />
+      <workItem from="1619287174118" duration="1829000" />
+      <workItem from="1619289180582" duration="21801000" />
+      <workItem from="1619312905592" duration="4740000" />
+      <workItem from="1619318324584" duration="134000" />
+      <workItem from="1619318780318" duration="3319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="241" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619305256606">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="359" y="241" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1619305256606" />
+    <state x="424" y="325" key="NewPhpClassDialog" timestamp="1619253746254">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="424" y="325" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1619253746254" />
+    <state x="464" y="422" key="NewPhpFileDialog" timestamp="1619322022827">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="464" y="422" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1619322022827" />
+    <state x="114" y="100" width="1031" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619309393515">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="114" y="100" width="1031" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.984@0.0.1280.984" timestamp="1619309393515" />
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1619318436408">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1619318436408" />
+  </component>
+</project>
